@@ -13,3 +13,5 @@ $ git remote add origin https://github.com/jeheehee/TIL.git
 
 $ git remote -v
 ```
+
+### Github에 push& pull 연습
