@@ -15,6 +15,7 @@ $ git remote add origin https://github.com/jeheehee/TIL.git
 $ git remote -v
 ```
 
+<<<<<<< HEAD
 #### git push
 + push 전에 1) git add . 와 2) git commit -m '<메세지>' 해야함
 '''
@@ -31,3 +32,6 @@ $ git push origin master
 0117.mon
 ### Python 기본
 ### Gitlab에 숙제 올리기
+=======
+### Github에 push& pull 연습
+>>>>>>> a0a9025f58e477ef1925af3012930b26c220c67e
